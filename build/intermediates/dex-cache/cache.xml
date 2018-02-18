@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/alhajery/.android/build-cache/53df734abb4e3c778d07b4a4067b9d437b6f55bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/alhajery/Desktop/MyDocument/400/app/build/intermediates/pre-dexed/debug/classes_1f972dba4a4e2d11d1f3525434c242ad11a99b97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alhajery/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/alhajery/Desktop/MyDocument/400/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_05ba5b5071d33c59fd1f0275e7899acd8be204cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alhajery/.android/build-cache/a2baa44b480f63631174ecb85b12f864a6c5315b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/alhajery/Desktop/MyDocument/400/app/build/intermediates/pre-dexed/debug/classes_1c0e5764bcc1f7424cbf796d9a6c53db63d81eff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alhajery/.android/build-cache/1ca642ee82790e07f608e036eee6e3abdaf9e006/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/alhajery/Desktop/MyDocument/400/app/build/intermediates/pre-dexed/debug/classes_3535de097bcfafa5084d71efe40f84abc6e56f4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alhajery/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/alhajery/Desktop/MyDocument/400/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_7bf0db9392ef6996ea88f71c18e45f254780d211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alhajery/.android/build-cache/4e555c6736b4ba3a7df9435b5b5dcacedb9b81fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/alhajery/Desktop/MyDocument/400/app/build/intermediates/pre-dexed/debug/classes_36bb465e2f844a1c5a28eac5bd6c02da964f4d47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alhajery/.android/build-cache/6b8a9be0c0da28cfa256e25839c898fa95862661/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/alhajery/Desktop/MyDocument/400/app/build/intermediates/pre-dexed/debug/classes_977a05eb331cdb77a02367192ffcc772a31d46cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alhajery/.android/build-cache/4582276b972895e7a969febc45f03a51c6f77d2d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/alhajery/Desktop/MyDocument/400/app/build/intermediates/pre-dexed/debug/classes_25e456d8427b4bb3bc7053619a8ef48967583e0e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alhajery/Desktop/MyDocument/400/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/alhajery/Desktop/MyDocument/400/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8a75d074a063c214dfa6c81426d285177f288167/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alhajery/.android/build-cache/e66dd1a48dd555d979db85988db9b60cf194819c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/alhajery/Desktop/MyDocument/400/app/build/intermediates/pre-dexed/debug/classes_e04748820e4ec40c9b2182edfc43608acc0fe97b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alhajery/.android/build-cache/8b4bb8f2d80cd9377feacf4aa6711ff75065605f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/alhajery/Desktop/MyDocument/400/app/build/intermediates/pre-dexed/debug/classes_79c68cafa3cbe599df8c2cdc6fd716b411d71cd0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alhajery/Desktop/MyDocument/400/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="080665dafaaafee33cdf33b96168581619b806f4">
+        <dex dex="/Users/alhajery/Desktop/MyDocument/400/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c20a845d76966c276d5297f666c65545aabac4d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alhajery/.android/build-cache/a534a9a219465b0dc22d234226e517d2fea81b3a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/alhajery/Desktop/MyDocument/400/app/build/intermediates/pre-dexed/debug/classes_8b4c948af5d7eb204ded7431d89961c2260870c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alhajery/.android/build-cache/2a99a27aae6e0e5e9c403b15c837932f3e1db1da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/alhajery/Desktop/MyDocument/400/app/build/intermediates/pre-dexed/debug/classes_5237c4d647793688e30f4dbff99488ef99767611.jar" />
+    </item>
+
+</items>

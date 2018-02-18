@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="hala.myPackage.android.a400.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/scroll1parent"
+        android:layout_marginBottom="18dp"
+        android:layout_marginLeft="40dp"
+        android:layout_toRightOf="@+id/speaker"
+        android:text="لنا"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/scroll1parent"
+        android:layout_marginBottom="18dp"
+        android:layout_marginRight="40dp"
+        android:layout_toLeftOf="@+id/speaker"
+        android:text="لهم"
+        android:textSize="30sp"
+
+        />
+
+    <EditText
+        android:id="@+id/lhm"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="20dp" />
+
+    <ScrollView
+        android:id="@+id/scroll1parent"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_above="@+id/sajil"
+        android:layout_centerVertical="true"
+        android:layout_margin="20dp">
+
+        <LinearLayout
+            android:id="@+id/scroll1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"></LinearLayout>
+    </ScrollView>
+
+    <EditText
+        android:id="@+id/lna"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="20dp" />
+
+
+    <Button
+        android:id="@+id/sajil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/lna"
+        android:layout_toRightOf="@+id/lhm"
+        android:onClick="sajil"
+        android:text="سجل"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sajil"
+        android:layout_centerHorizontal="true"
+        android:onClick="reset"
+        android:text="صكة جديدة" />
+
+    <ImageButton
+        android:id="@+id/speaker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/sajil"
+        android:layout_toLeftOf="@+id/lna"
+        android:layout_toRightOf="@+id/lhm"
+        android:background="@android:color/transparent"
+        android:onClick="play"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/sot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/reset"
+        android:layout_centerHorizontal="true"
+        android:text="صوت الارض"
+        android:visibility="invisible" />
+
+    <ImageButton
+        android:id="@+id/play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/reset"
+        android:layout_centerHorizontal="true"
+        android:layout_toRightOf="@id/speaker"
+        android:onClick="play"
+        android:src="@android:drawable/ic_media_play"
+        android:visibility="invisible"
+
+        />
+
+    <ImageButton
+        android:id="@+id/pause"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/reset"
+        android:layout_toLeftOf="@+id/speaker"
+        android:onClick="pause"
+        android:src="@android:drawable/ic_media_pause"
+        android:visibility="invisible" />
+
+    <LinearLayout
+        android:id="@+id/egg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/sot"
+        android:orientation="vertical"></LinearLayout>
+</RelativeLayout>
